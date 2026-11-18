@@ -3,6 +3,15 @@
   "rules": [
     {
       "domain": [
+        "help.firstrade.info",
+        "openapi.futunn.com",
+        "api.futunn.com",
+        "api5.futunn.com",
+        "trade.futunn.com",
+        "qtcard.futunn.com",
+        "qtcardfthk.futufin.com",
+        "support.futunn.com",
+        "download.futunn.com",        
         "ai-gateway.vercel.sh",
         "ai.google.dev",
         "aicode.googleapis.com",
@@ -487,7 +496,21 @@
         "youmind.com",
         "youmind.site",
         "zed.dev",
-        "zenrows.com"
+        "zenrows.com",
+        "firstrade.com",
+        "interactivebrokers.com",
+        "interactivebrokers.ca",
+        "interactivebrokers.ie",
+        "interactivebrokers.co.uk",
+        "interactivebrokers.co.in",
+        "interactivebrokers.com.hk",
+        "interactivebrokers.com.sg",
+        "interactivebrokers.com.au",
+        "ibkr.com",
+        "ibkr.info",
+        "ibkr.com.cn",
+        "ibllc.com",
+        "ibllc.com.cn"        
       ],
       "domain_keyword": [
         "bedrock",
